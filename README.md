@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**alinkakhu/alinkakhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Alina! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in the Frontend Development.
+
+I worked on different projects that allowed me to develop my skills in HTML, CSS, and JavaScript, Angular, TypeScript, Bootstrap, Git. 
+
+ I am passionate for continuous learning and staying updated with the latest advancements in frontend technologies. 
+
+## Technologies
+
+- Angular
+- JavaScript
+- React
+- Node.js
+- React
+- 
+## My Projects
+
+- [English for kids](https://alinkakhu.github.io/English-for-kids/english/)
+- [Shelter](https://alinkakhu.github.io/Shelter/pages/main/index.html)
+- [Project Managment App (Angular)](https://alinkakhu.github.io/project-managment/welcome-page)
+- [The Book Shop](https://alinkakhu.github.io/Book_Shop/index.html)
+
+
+
+
