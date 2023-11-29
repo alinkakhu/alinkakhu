@@ -16,7 +16,7 @@ I worked on different projects that allowed me to develop my skills in HTML, CSS
 - React
 - Node.js
 - React
-- 
+  
 ## My Projects
 
 - [English for kids](https://alinkakhu.github.io/English-for-kids/english/)
